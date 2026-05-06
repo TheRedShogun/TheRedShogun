@@ -4,6 +4,6 @@ This isn't about who's a ninja, a Nindroid, or even a ghost. Above all else, we'
 
 <img width="1200" height="675" alt="JPEG image" src="https://github.com/user-attachments/assets/40d7378d-cf01-44da-8ed2-82985b82377e" />
 
-
+-
 
 ![](https://komarev.com/ghpvc/?username=TheRedShogun&color=red)
